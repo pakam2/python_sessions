@@ -1,5 +1,5 @@
 """Homework 8"""
-
+#In the whole file I used short names for variables (only for time saving purpose)
 import enum
 import binascii
 import heapq
